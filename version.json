@@ -1,6 +1,6 @@
 {
-  "latest": 4,
+  "latest": 5,
   "minimum": 2,
-  "url": "https://github.com/hannimamo/talkie/releases/download/v4-test/app-release.apk",
-  "notes": "Version 4: choose from eight built-in avatars instead of a profile photo. Your name and avatar are saved for next time."
+  "url": "https://github.com/hannimamo/talkie/releases/download/v5-test/app-release.apk",
+  "notes": "Version 5: more reliable push-to-talk, channel changes and reconnect handling; safer frequency input; improved avatar/name saving, busy-room search and update downloads."
 }
