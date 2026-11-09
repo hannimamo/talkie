@@ -1,6 +1,6 @@
 {
-  "latest": 2,
+  "latest": 3,
   "minimum": 2,
-  "url": "https://example.com",
-  "notes": "First version with updates"
+  "url": "https://github.com/hannimamo/talkie/releases/download/v3-test/app-release.apk",
+  "notes": "Version 3 test build: save your profile name and photo, and search for occupied channels with the dice button."
 }
