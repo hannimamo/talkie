@@ -1,6 +1,6 @@
 {
-  "latest": 5,
+  "latest": 6,
   "minimum": 2,
-  "url": "https://github.com/hannimamo/talkie/releases/download/v5-test/app-release.apk",
-  "notes": "Version 5: more reliable push-to-talk, channel changes and reconnect handling; safer frequency input; improved avatar/name saving, busy-room search and update downloads."
+  "url": "https://github.com/hannimamo/talkie/releases/download/v6-test/app-release.apk",
+  "notes": "Version 6 test build: separate Rooms and Chats, live room/private messages, settings and activity bell, 18+ entry, new icon and draft privacy/rules. Private chat requires a shared live room. Operator contact and moderation setup are still pending."
 }
