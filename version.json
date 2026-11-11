@@ -1,6 +1,6 @@
 {
-  "latest": 6,
+  "latest": 7,
   "minimum": 2,
-  "url": "https://github.com/hannimamo/talkie/releases/download/v6-test/app-release.apk",
-  "notes": "Version 6 test build: separate Rooms and Chats, live room/private messages, settings and activity bell, 18+ entry, new icon and draft privacy/rules. Private chat requires a shared live room. Operator contact and moderation setup are still pending."
+  "url": "https://github.com/hannimamo/talkie/releases/download/v7-test/app-release.apk",
+  "notes": "Version 7 test build: Android functionality retained while preparing iOS compatibility. APK updates now apply only to Android. Voice rooms, room/private live chats, avatars, settings and activity remain available. Development backend, operator contact and moderation setup remain pending."
 }
